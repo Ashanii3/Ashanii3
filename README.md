@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashani</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate Full-Stack developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **React**
+
 
 - 📫 How to reach me **mmanm.ashani@gmail.com**
 
